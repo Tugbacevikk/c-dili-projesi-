@@ -1,4 +1,4 @@
-# c-dili-projesi-
+
 # Ozan Macerası – Metin Tabanlı RPG Oyunu (C)
 
 Bu proje, C programlama dili kullanılarak geliştirilmiş **metin tabanlı bir rol yapma oyunudur (RPG)**.  
